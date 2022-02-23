@@ -1,0 +1,24 @@
+Story 1
+
+Foundation Capstone
+
+Hello, in this story I'll be talking about my Lift Coefficient Calculator web app that I created for my Capstone Project in the Foundations portion of Devmountain.
+
+This project was one that catered to my interest in the aeronautical related field. I wanted to create a calculator that would take in Flow Speed, Surface Area, Air Density and Lift Force and do the calculations to give the user the Lift Coefficient! I also added a second page that worked as a forum for posting articles and other items that may be interesting for people fascinated by aeronautics!
+
+In this project I used node.js, express, html, css, dotenv and axios. I chose these technologies because I felt they really covered my needs. Axios was able to handle my requests and return the responses as needed. Overall these technologies worked well together.
+
+I learned that there is a lot more I can do with these technologies! They are user friendly and solid applications. I know i barely scratched the surface and am looking forward to getting a more in depth knowledge of these technologies!
+
+
+
+
+Story 2
+
+Learning Axios
+
+Hello, I wanted to share my experience learning Axios! Axios was, for whatever reason, a tough one for me! I knew it was important though, so i perservered!
+
+I chose to learn axios because i knew it would be a great technology to handle my requests in web applications, front end to back end. I spent time reading github articles on axios, as well as youtube tutorials. Overall these resources were able to give me a solid understanding of how they work!
+
+I used axios in my Foundation Capstone project! It handled all the requests in my web application!
